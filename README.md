@@ -3,4 +3,4 @@ repositorio inicial de prueba
 
 Haciendo una prueba sobre cambios...
 
--- prueba hecha desde PC
+-- prueba hecha desde PC1
